@@ -1,0 +1,1 @@
+print ('Andrade "Arthur"') # Para usar aspas no print, basta usar aspas simples e aspas duplas.
